@@ -1,7 +1,7 @@
 ---
 date: "2023-11-06"
 title: "Class G, Mocap data"
-author: "Luke Ring / zeyus"
+author: "Luke Ring / zeyus - Amelies version"
 output: html_document
 ---
 
