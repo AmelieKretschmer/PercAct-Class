@@ -6,6 +6,7 @@ output: html_document
 ---
 
 # Class G, Mocap data analysis
+Im writing something here lol
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
